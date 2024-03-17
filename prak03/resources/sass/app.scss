@@ -1,0 +1,41 @@
+// Fonts
+//@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+//@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+//Icon Bootstrap
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+.bg-purple {
+    background-color: #7431FA !important;
+}
+
+.bg-white{
+    background-color: #FFFFFF;
+}
+
+.hover-dropdown:hover{
+    background-color: #7431fa21 !important;
+}
+
+.header a{
+    color: #AEAEAE;
+}
+
+.header a:hover{
+    color: #0D6EFD;
+}
+
+footer li a{
+    text-decoration: none;
+    color: #000000;
+}
+
+footer li a:hover{
+    text-decoration: underline;
+    color: #0D6EFD;
+}
